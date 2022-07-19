@@ -1,0 +1,23 @@
+
+.body_one{
+    background-color:rgba(58,72,136,0.69);
+}
+.login_box{
+    max-width: 700px;
+    float: none;
+    margin: 150px auto;
+}
+.login_left{
+    background-color:rgba(136,120,136,0.69);
+    padding: 30px;
+}
+.login_right{
+    background-color: white;
+    padding: 30px;
+}
+.form-control{
+
+}
+.body_two{
+    background-color: rgba(80,217,29,0.69);
+}
